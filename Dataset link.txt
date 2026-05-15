@@ -1,0 +1,17 @@
+1)Apple
+2)Cherry
+3)Citrus
+4)Corn
+5)Grape
+6)Peach
+7)Pepper
+8)Potato
+9)Strawberry
+10)Tomato
+
+
+plant
+Above 10 classes link -> https://www.kaggle.com/datasets/lavaman151/plantifydr-dataset
+
+Pest
+https://drive.google.com/drive/folders/1svFSy2Da3cVMvekBwe13mzyx38XZ9xWo
